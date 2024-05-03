@@ -46,9 +46,9 @@ setup(
     license='Apache 2.0',
 
     install_requires=[
-        'django-parler>=1.9.2',
-        'djangorestframework>=3.5',
-        'django>=2.2',
+        'django-parler>=3.0',
+        'djangorestframework>=3.15',
+        'django>=4.2',
     ],
     tests_require=[
         'pytest',
@@ -79,11 +79,11 @@ setup(
         'License :: OSI Approved :: Apache Software License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
-        'Framework :: Django :: 2.2',
-        'Framework :: Django :: 3.2',
-        'Framework :: Django :: 4.0',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
+        'Framework :: Django :: 4.2',
+        'Framework :: Django :: 5.0',
     ]
 )

@@ -1,5 +1,12 @@
 # Changelog
 
+## Changes in version 3.0 (2024-05-10)
+
+* Drop support for Python-3.8.
+* Add support for Python-3.11, and 3.12.
+* Drop support for Django 3.2 and 4.0.
+* Add support for Django 4.2 and 5.0.
+
 ## Changes in version 2.2 (2022-05-04)
 
 * Drop support for Python-2.

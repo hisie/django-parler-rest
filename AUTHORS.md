@@ -9,4 +9,5 @@
 * Dan Wilson
 * Jacob Rief <jacob.rief@gmail.com>
 * Tuomas Suutari
+* Diego Cebrian (https://github.com/hisie)
 * you?
